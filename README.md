@@ -25,6 +25,8 @@ A simple web application that allows users to ask questions about medicines and 
 ## 📸 Screenshots
 
 Add your screenshots here:
+Screenshot 2026-05-30 182143.png
+Screenshot 2026-05-30 182519.png
 
 
 
